@@ -20,6 +20,9 @@ public class CalculoDePrecioPredio {
         
         int costo=(ancho*largo)*precio;
         System.out.println("El valor del predio es de "+ costo);
+        
+        
+        int var;
     }
 
 }
